@@ -1,5 +1,21 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on:
+Building personal projects that apply backend logic and API integration, and refining my completed Sales & Inventory Management System built with C#, .NET Framework, and SQL Server.
+
+👯 I’m looking to collaborate on:
+Backend or full-stack projects involving RESTful APIs, database systems, or automation tools that help improve productivity and performance.
+
+🤝 I’m looking for help with:
+Expanding my practical experience through an internship or junior developer role where I can contribute to real-world software solutions.
+
+🌱 I’m currently learning:
+How to design and implement RESTful APIs, use Entity Framework, and apply clean architecture principles in C#/.NET development.
+
+💬 Ask me about:
+C#, SQL Server, database modeling, encryption techniques, or how to structure backend logic efficiently.
+
+⚡ Fun fact:
+I enjoy optimizing my workflow through automation scripts and exploring how software engineering and business logic come together to solve real problems.
 
 
 # 💻 Tech Stack:
