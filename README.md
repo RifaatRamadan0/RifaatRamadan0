@@ -25,11 +25,6 @@ I enjoy optimizing my workflow through automation scripts and exploring how soft
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=RifaatRamadan0&theme=dark&hide_border=false" height="150"/>
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- space between the two -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifaatRamadan0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
 </p>
-
-![](https://github-readme-stats.vercel.app/api?username=RifaatRamadan0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RifaatRamadan0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RifaatRamadan0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
