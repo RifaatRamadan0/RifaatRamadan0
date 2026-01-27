@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on:
-Building personal projects that apply backend logic and API integration, and contributing to a blood donation project
+Building personal projects that apply backend logic and API integration
 
 👯 I’m looking to collaborate on:
 Backend or full-stack projects involving RESTful APIs, database systems, or automation tools that help improve productivity and performance.
