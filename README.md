@@ -9,7 +9,7 @@ Backend or full-stack projects involving RESTful APIs, database systems, or auto
 Expanding my practical experience through an internship or junior developer role where I can contribute to real-world software solutions.
 
 🌱 I’m currently learning:
-How to design and implement Secure RESTful APIs, use Entity Framework, and apply clean architecture principles in C#/.NET development.
+How to design and implement prduction-ready, secure RESTful APIs, use Entity Framework, and apply clean architecture principles in C#/.NET development.
 
 💬 Ask me about:
 C#, SQL Server, database modeling, encryption techniques, or how to structure backend logic efficiently.
