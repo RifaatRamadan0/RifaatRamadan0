@@ -31,7 +31,6 @@ application code. It slowed me down early and made everything faster later.
 ## Backend
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -49,9 +48,5 @@ application code. It slowed me down early and made everything faster later.
 
 ---
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=RifaatRamadan0&theme=dark&hide_border=false" height="150"/>
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- space between the two -->
-</p>
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/RifaatRamadan0?cardType=github&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
