@@ -1,28 +1,36 @@
 # About Me
 
-🔭 **Currently building:**
-SmartSports, a sports facility booking platform with real-time features and an AI
-recommendation engine. Built with ASP.NET Core 8, React, PostgreSQL, SignalR,
-FastAPI, and Docker.
+🔭 **Recently built:**
+[SmartSports](https://github.com/RifaatRamadan0/SmartSports-Platform), a sports facility
+booking platform built by a 2-person team. ASP.NET Core 8, React, PostgreSQL, Dapper,
+SignalR. Clean Architecture, 40+ REST endpoints, double-booking prevention, and JWT
+with refresh-token rotation.
 
-👯 **Open to collaborate on:**
-Backend or full-stack projects using C#/.NET or Node.js, especially if there's
-something interesting happening at the API or data layer.
+🛠️ **Live demo:**
+[IT Help Desk & Ticketing System](https://github.com/RifaatRamadan0/IT-HelpDesk-Ticketing-System),
+built during my IDS Academy internship. ASP.NET Core 8, SQL Server, EF Core, SignalR,
+OpenAI API. Try it: https://helpdesk-fawn-five.vercel.app (first load can take about
+90 seconds while the server wakes up).
 
 🎓 **Where I'm at:**
-Final-year Business Computer student at Lebanese University, graduating 2026. Currently interning
-at IDS Academy.
+Graduated in July 2026 with a Bachelor's in Business Computing from Lebanese University.
+Looking for Backend or Full Stack Developer roles.
 
-🌱 **Currently working through:**
-React and PostgreSQL in practice, both applied directly in SmartSports.
+🌱 **Currently learning:**
+EF Core and LINQ in depth, and preparing for the Azure AZ-900 exam.
+
+👯 **Open to collaborate on:**
+Backend or full-stack projects using C#/.NET, especially work at the API or data layer.
 
 💬 **Ask me about:**
-C#/.NET, REST API design, JWT auth with httpOnly cookies, SQL Server, PostgreSQL,
-or multi-layer backend architecture.
+C#/.NET, REST API design, JWT auth with httpOnly cookies, SignalR, SQL Server,
+PostgreSQL, or Clean Architecture.
 
 ⚡ **Background:**
 I spent a year solving 165+ algorithm problems before writing a single line of
 application code. It slowed me down early and made everything faster later.
+
+📫 **Reach me:** [LinkedIn](https://linkedin.com/in/rifaat-ramadan) · rifaatramadan0@gmail.com
 
 ---
 
